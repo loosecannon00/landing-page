@@ -1,0 +1,85 @@
+body {
+    margin:0;
+    font-family: "Lucida Console", "Courier New" ;
+}
+
+.header-container {
+    background-color: #1f2937;
+    padding: 10px 100px 100px 100px;
+}
+
+.logo-and-navBar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.logo{
+    font-size: 24px;
+    color: #f9faf8
+}
+
+.navigation-bar {
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.header-hero-and-img-container {
+    display: flex;
+    gap: 20px;
+}
+
+.hero-text-container {
+    flex-basis: 50%;
+}
+
+.hero-main-text {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.hero-secondary-text {
+    font-size: 18px;
+    color:#e5e7eb;
+    margin: 10px 0px;
+}
+
+.sign-up-button {
+    color:  #f9faf8;
+    background-color: #3882f6;
+    padding: 3px 20px;
+    border-radius: 10px;
+}
+
+.img-container {
+    flex-basis: 50%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    color: #e5e7eb;
+    font-size: 18px;
+    background-color: #b5b8bd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
