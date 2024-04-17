@@ -5,7 +5,7 @@ body {
 
 .header-container {
     background-color: #1f2937;
-    padding: 10px 100px 100px 100px;
+    padding: 10px 150px 100px 150px;
 }
 
 .logo-and-navBar-container {
@@ -72,6 +72,45 @@ a {
     background-color: #b5b8bd;
 }
 
+.info {
+    padding : 50px 150px 100px 150px;
+}
+
+.info-header {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.info-imgs-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+
+
+.info-img-container {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 2px solid #3882f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #3882f6;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+ 
+.img-subtext {
+    font-size: 18px;
+    color:#babcc0;
+    width:150px;
+    text-align: center;
+}
 
 
 
