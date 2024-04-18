@@ -131,6 +131,33 @@ a {
     margin-left: auto;
 }
 
+.sign-up-section {
+    padding: 50px 150px;
+}
+
+.core-sign-up {
+    background-color: #3882F6;
+    color: #f9faf8;
+    padding: 30px 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.core-text {
+    flex-basis: 400px;
+}
+.core-header {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.sign-up-button {
+    border: 1px solid  #f9faf8;
+    border-radius: 5px;
+}
+
 
 
 
