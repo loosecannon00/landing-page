@@ -1,1 +1,2 @@
 # landing-page
+The purpose of this small project is to practice basic HTML tags and some foundational CSS concepts such selectors, the box and flex models by reproducing the given design highlighted in 'landing-page-design.png'.   
